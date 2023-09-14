@@ -1,4 +1,4 @@
-module ryebreadgit/lantern-light
+module github.com/ryebreadgit/lantern-light
 
 go 1.17
 
